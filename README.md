@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C,C++,Java Script**
 
-- 💬 Ask me about **C,C++,HTML,CSS**
+- 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
 
 - 📫 How to reach me **nk534031@gmail.com**
 
