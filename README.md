@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **C,C++,Java Script**
+- 🌱 I’m Familiar with **C,C++,Java Script**
 
 - 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
 
