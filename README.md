@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Web Development and Data Science**
 
-- 🌱 I’m Familiar with **C,C++,Java,Java Script,Reactjs,Nodejs,Python,R,SQL,MongoDB,Tableau**
+- 🌱 I’m Familiar with **C, C++, Java, Java Script, Reactjs, Nodejs, Python, R, SQL, MongoDB, Tableau**
 
-- 💬 Ask me about **C,C++,Java,Python,R,HTML,CSS,JavaScript,Reactjs,Nodejs**
+- 💬 Ask me about **C, C++, Java, Python, R, HTML, CSS, JavaScript, Reactjs, Nodejs**
 
 - 📫 How to reach me **nk534031@gmail.com**
 
