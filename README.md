@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Web Development and Data Science**
 
-- 🌱 I’m Familiar with **C,C++,Java Script**
+- 🌱 I’m Familiar with **C,C++,Java,Java Script,Reactjs,Nodejs,Python,R,SQL,MongoDB,Tableau**
 
-- 💬 Ask me about **C,C++,HTML,CSS,JavaScript**
+- 💬 Ask me about **C,C++,Java,Python,R,HTML,CSS,JavaScript,Reactjs,Nodejs**
 
 - 📫 How to reach me **nk534031@gmail.com**
 
